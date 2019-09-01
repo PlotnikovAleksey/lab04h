@@ -1,6 +1,0 @@
-/home/fbdn/PlotnikovAleksey/workspace/tasks/lab03rework/lab03/formatter_ex_lib/_builds/CMakeFiles/rebuild_cache.dir
-/home/fbdn/PlotnikovAleksey/workspace/tasks/lab03rework/lab03/formatter_ex_lib/_builds/CMakeFiles/formatter_ex.dir
-/home/fbdn/PlotnikovAleksey/workspace/tasks/lab03rework/lab03/formatter_ex_lib/_builds/CMakeFiles/edit_cache.dir
-/home/fbdn/PlotnikovAleksey/workspace/tasks/lab03rework/lab03/formatter_ex_lib/_builds/formatter/CMakeFiles/rebuild_cache.dir
-/home/fbdn/PlotnikovAleksey/workspace/tasks/lab03rework/lab03/formatter_ex_lib/_builds/formatter/CMakeFiles/formatter.dir
-/home/fbdn/PlotnikovAleksey/workspace/tasks/lab03rework/lab03/formatter_ex_lib/_builds/formatter/CMakeFiles/edit_cache.dir
