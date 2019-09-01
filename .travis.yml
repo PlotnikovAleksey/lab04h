@@ -1,4 +1,21 @@
 language: cpp
+
+compiler:
+  - gcc
+  - clang
+
+os:
+ - linux
+
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+      - llvm-toolchain-trusty-5.0
+    packages:
+      - g++-6
+      - clang-5.0 
+
 script:
-  - cmake .
-  - cmake --build .
+  - cmake -H. -B_build
+  - cmake --build _build
